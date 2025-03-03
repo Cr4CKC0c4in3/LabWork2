@@ -1,0 +1,6 @@
+vhi_data/
+
+*.csv
+
+*.log
+*.tmp
